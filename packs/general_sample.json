@@ -1,0 +1,13 @@
+﻿{
+  "name": "General Sample",
+  "author": "System",
+  "description": "A sample pack to test the community downloader.",
+  "language": "English",
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["Marseille", "Paris", "Lyon", "Bordeaux"],
+      "correct_index": 1
+    }
+  ]
+}
