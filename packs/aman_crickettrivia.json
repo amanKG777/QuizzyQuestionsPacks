@@ -1,0 +1,166 @@
+{
+    "author": "aman",
+    "name": "cricket trivia",
+    "questions": [
+        {
+            "correct_index": 0,
+            "options": [
+                "2022?",
+                "2021?",
+                "2020?",
+                "2017?"
+            ],
+            "question": "in which year did david miller scored a 35-ball hundred in t20 internationals?"
+        },
+        {
+            "correct_index": 3,
+            "options": [
+                "AB de viliears - against south africa",
+                "AB de viliears  - against india",
+                "AB de viliears  - against australia",
+                "AB de viliears  - against west indies"
+            ],
+            "question": "who scored the fastest one day international hundred and against which oppozition?"
+        },
+        {
+            "correct_index": 3,
+            "options": [
+                "virat kohli?",
+                "AB de viliears?",
+                "joe root?",
+                "rohit sharma?"
+            ],
+            "question": "who holdes the record for the highest indivisual score in one day internationals?"
+        },
+        {
+            "correct_index": 3,
+            "options": [
+                "rohit sharma?",
+                "virat kohli?",
+                "MS dhoni?",
+                "sachin tandulkar?"
+            ],
+            "question": "who holdes the record of scoring hundred centuries in cricket?"
+        },
+        {
+            "correct_index": 0,
+            "options": [
+                "7?",
+                "5?",
+                "3?",
+                "4?"
+            ],
+            "question": "how many tytles are won by australian womens cricket team in one day internationals?"
+        },
+        {
+            "correct_index": 3,
+            "options": [
+                "22?",
+                "23?",
+                "24?",
+                "25?"
+            ],
+            "question": "what's the number of century scored by chriss gale in one day internationals?"
+        },
+        {
+            "correct_index": 3,
+            "options": [
+                "england - 492/4?",
+                "australia - 481/7?",
+                "india - 444/9?",
+                "england - 498/4?"
+            ],
+            "question": "what's the highest score by any team in one day internationals"
+        },
+        {
+            "correct_index": 1,
+            "options": [
+                "india?",
+                "sri lanka?",
+                "england?",
+                "new zealand?"
+            ],
+            "question": "who won the 2014 mens t20 world cup?"
+        },
+        {
+            "correct_index": 3,
+            "options": [
+                "west indies?",
+                "australia?",
+                "england?",
+                "india?"
+            ],
+            "question": "who is the only team to have lifted a 60 over cricket world cup tytle as well as 50 and 20 respectively?"
+        },
+        {
+            "correct_index": 3,
+            "options": [
+                "glenn maxwell?",
+                "rohit sharma?",
+                "virat kohli?",
+                "ishan kishan?"
+            ],
+            "question": "who holds the record for the fastest double  century in one day international cricket?"
+        },
+        {
+            "correct_index": 2,
+            "options": [
+                "mitchel starc?",
+                "mitchel marsh?",
+                "daun bradmen?",
+                "garry soburce"
+            ],
+            "question": "who is the gratest batsman of all time for australia?"
+        },
+        {
+            "correct_index": 0,
+            "options": [
+                "glenn maxwell?",
+                "mitchel starc?",
+                "travis head?",
+                "mitchel marsh?"
+            ],
+            "question": "who scored 201* against afghanistan in ICC cricket world cup 2023 for australia?"
+        },
+        {
+            "correct_index": 0,
+            "options": [
+                "kl rahul",
+                "rohit sharma ",
+                "virat kohli",
+                "ms dhoni"
+            ],
+            "question": "which of the following batsman has 99 sixes in t20 international cricket?"
+        },
+        {
+            "correct_index": 2,
+            "options": [
+                "ms dhoni",
+                "druv jurel",
+                "rishabh pant",
+                "ben foaks"
+            ],
+            "question": "which of these wicketkeeper batters scored a twin hundred but his team still lost the match?"
+        },
+        {
+            "correct_index": 0,
+            "options": [
+                "mohommad azzurideen",
+                "saurav ganguly",
+                "sachin tendulkar",
+                "ms dhoni"
+            ],
+            "question": "which of the following indian capten does not have a double century to his name in test cricket"
+        },
+        {
+            "correct_index": 1,
+            "options": [
+                "2.442",
+                "3.8499",
+                "3.8472",
+                "-3.4872"
+            ],
+            "question": "if a team scored 243 runs in t20i and won by 77 runs, what will be its net run rate?"
+        }
+    ]
+}
